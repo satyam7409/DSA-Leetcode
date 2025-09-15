@@ -1,4 +1,5 @@
 import java.util.Stack;
+//sum of subset minimum
 
 public class SumOfSubset {
     public static  int[] NSE(int[] nums){
